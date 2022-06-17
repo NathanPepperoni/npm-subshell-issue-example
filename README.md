@@ -1,0 +1,1 @@
+# npm-subshell-issue-example
